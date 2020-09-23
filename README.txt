@@ -4,7 +4,7 @@
 master.slim@rambler.ru
 
 Задание:
-"Необходимо написать программу, которая соотнесёт перевод фраз (словарь в Excel документе 'VieverMessages.xlsx') к английским фразам XML-документа ('VieverMessages.xml')
+"Необходимо написать программу, которая соотнесёт перевод фраз (словарь в Excel документе 'ViewerMessages.xlsx') к английским фразам XML-документа ('ViewerMessages.xml')
 Пример:
 <message id="1">
   <variant language="en_US>Customer</variant>
